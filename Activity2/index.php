@@ -18,7 +18,7 @@
         crossorigin="anonymous"></script>
 
 
-    <title>Activity 2</title>
+    <title>AppDev-MT_Activity 2</title>
 
 </head>
 
