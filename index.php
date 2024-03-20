@@ -27,11 +27,7 @@
          <br/>
 		 <a href="Portfolio">Portfolio</a>
 		 <br/>
-		 <a href="photo_gallery">Photo Gallery</a>
-		 <br/>
-	     <a href="blog_project">Blog</a>
-		 <br/>
-	     <a href="e_commerce">E-Commerce</a>
+
    </body>
    </center>
 
