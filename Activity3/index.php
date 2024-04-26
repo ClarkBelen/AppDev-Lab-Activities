@@ -340,17 +340,16 @@
           <h4><a href="#abc" data-toggle="collapse">This is a panel heading</a></h4>
         </div>
         
-          <div id="abc" class="collapse panel-collapse">
-             <div class="panel-body">
+        <div id="abc" class="collapse panel-collapse">
+          <div class="panel-body">
             <p>This is a panel body</p>
           </div>
           
           <div class="panel-footer">
             This is a panel footer
           </div>
-          
         </div>
-      </div>
+    </div>
   </div>
 
 
